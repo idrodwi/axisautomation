@@ -7,7 +7,7 @@ import com.abb.ventyx.utilities.BaseTestCase;
 import com.abb.ventyx.utilities.Credentials;
 import com.abb.ventyx.utilities.TestData;
 @ALM(id = "1") 
-@Credentials(user = "axis_support@abb.com", password = "Testuser1")
+@Credentials(user = "mail5@abb.com", password = "testuser")
 @TestData(fileName = "login.xls", startRow =1, endRow=2)
 public class AxisLogin extends BaseTestCase{
 
