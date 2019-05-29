@@ -19,7 +19,7 @@ public class Messages {
 	public static final String UPDATE_FIELD_TYPE = "Document filter type search option successfully updated";
 	public static final String DELETE_FIELD_TYPE = "Document Filter Type Search Option successfully deleted";
 	public static final String DOC_TYPES_EXIST = "This Document Type already exists";
-	public static final String ENTER_MANDATORY_FIELDS = "One or more fields are in error. Please correct.";
+	public static final String ENTER_MANDATORY_FIELDS = "One or more fields are in error. Please correct";
 	public static final String EMPTY_PERMISSION = "Please select permissions for user group";
 	// User group page
 	public static final String USERGROUP_CREATE_SUCCESSFULLY = "User group successfully created";

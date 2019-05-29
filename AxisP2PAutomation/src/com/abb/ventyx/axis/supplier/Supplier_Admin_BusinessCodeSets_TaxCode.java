@@ -16,8 +16,8 @@ import com.abb.ventyx.utilities.Credentials;
 import com.abb.ventyx.utilities.ScreenAction;
 import com.abb.ventyx.utilities.TableFunction;
 
-@ALM(id = "953")
-@Credentials(user = "mail231@abb.com", password = "Testuser2")
+@ALM(id = "1370")
+@Credentials(user = "mail6@abb.com", password = "testuser")
 public class Supplier_Admin_BusinessCodeSets_TaxCode extends BaseTestCase {
 	ScreenAction action;
 	TableFunction table;
