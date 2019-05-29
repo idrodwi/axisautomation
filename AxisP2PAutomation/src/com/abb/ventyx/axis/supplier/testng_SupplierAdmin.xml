@@ -2,6 +2,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="Supplier_Admin" parallel="none">
+	<listeners>
+		<listener class-name="com.abb.ventyx.utilities.Reporter"></listener>
+	</listeners>
+
 	<test name="Supplier Admin Business Code Sets Tax Code">
 		<classes>
 			<class
